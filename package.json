@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WrightCD/comp3104"
+    "url": "git+https://github.com/WrightCD/comp3104.git"
   },
   "keywords": [
     "devops",
@@ -17,5 +17,8 @@
     "web"
   ],
   "author": "Carl Wright 100875122",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WrightCD/comp3104.git"
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WrightCD/comp3104"
+  },
+  "keywords": [
+    "devops",
+    "nodejs",
+    "express",
+    "web"
+  ],
+  "author": "Carl Wright 100875122",
+  "license": "ISC"
+}
